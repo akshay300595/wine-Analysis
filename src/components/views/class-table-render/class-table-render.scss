@@ -1,0 +1,29 @@
+.table-sub-container{
+    width: 100%;
+    text-align: center;
+    height: 100%;
+
+
+    .table-row{
+        width: 10%;
+
+        td{
+            background-color: #f3f3f3;
+        }
+
+        th{
+            
+            width: 10%;
+            background-color: #009879;
+            color: #ffffff;
+        }
+
+        th:nth-Child(even){
+            width: 10%;
+            background-color: #43ce7e;
+            color: #ffffff;
+        }
+    }
+
+
+}
