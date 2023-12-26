@@ -46,4 +46,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Project Screenshot
-[!Project Snapshot](src/utils/snapshots/tables.png)
+![Project Snapshot](src/utils/snapshots/tables.png)
